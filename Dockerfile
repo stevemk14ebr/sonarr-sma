@@ -14,6 +14,7 @@ RUN \
   apk add --no-cache \
     git \
     wget \
+    x265 \
     python3 \
     py3-pip \
     py3-virtualenv && \
